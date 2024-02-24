@@ -1,11 +1,11 @@
 {
-    "name": "element-web",
+    "name": "hfz-element",
     "version": "1.11.58",
-    "description": "A feature-rich client for Matrix.org",
-    "author": "New Vector Ltd.",
+    "description": "A modified version of Element for the Happy Fun Zone",
+    "author": "ptrs",
     "repository": {
         "type": "git",
-        "url": "https://github.com/element-hq/element-web"
+        "url": "https://github.com/ptrsuk/element-web"
     },
     "license": "Apache-2.0",
     "files": [
